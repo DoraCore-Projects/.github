@@ -26,6 +26,8 @@
 - [**shekhawat2**](https://github.com/shekhawat2)
 
 ## Donate
+[**More Infomation**](https://telegra.ph/DoraCore-Kernel-06-18)
+
 - **Paypal:** [@KernelPanix](https://www.paypal.me/dopaemon)
 - **USDT (TRC20):**
 ```Pay
@@ -39,3 +41,4 @@ TYfNrngg74avxCoeraCD1zkgqD9BRyUuqY
 ```Pay
 0xEB23bdeDC895549EB563e8ca624a42eb6b5bCe51
 ```
+
