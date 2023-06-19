@@ -25,6 +25,9 @@
 - [**dopaemon**](https://github.com/dopaemon)
 - [**shekhawat2**](https://github.com/shekhawat2)
 
+## Download
+- [**Github Release**](https://github.com/DoraCore-Projects/build-scripts/releases)
+
 ## Donate
 [**More Infomation**](https://telegra.ph/DoraCore-Kernel-06-18)
 
