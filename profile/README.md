@@ -28,6 +28,10 @@
 ## Download
 - [**Github Release**](https://github.com/DoraCore-Projects/build-scripts/releases)
 
+## Connect
+- [**Github**](https://github.com/orgs/DoraCore-Projects/discussions)
+- [**Telegram**](https://t.me/TotoroNK)
+
 ## Donate
 [**More Infomation**](https://telegra.ph/DoraCore-Kernel-06-18)
 
